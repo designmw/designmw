@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new coding lanuguages. Getting away from tools such as Elementor
 - 🌱 I’m currently learning advanced CSS, JS
 - 💞️ I’m looking to collaborate on nothing yet!
-- 📫 How to reach me - tommy@designmywebsite.ie
+- 📫 How to reach me - 
 
 <!---
 designmw/designmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
