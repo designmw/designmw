@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @designmw
-- 👀 I’m interested in learning new coding lanuguages. Getting away from tools such as Elementor
-- 🌱 I’m currently learning advanced CSS, JS
+- 👀 I’m interested in learning new coding lanuguages. 
+- 🌱 I’m currently learning Astro JS
 - 💞️ I’m looking to collaborate on nothing yet!
 - 📫 How to reach me - 
 
